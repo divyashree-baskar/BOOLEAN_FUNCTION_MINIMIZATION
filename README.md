@@ -32,7 +32,10 @@ Hardware – PCs, Cyclone II , USB flasher
 
 
 **Program:**
+
+
 ![image](https://github.com/user-attachments/assets/e2db0adf-f8db-46f6-afd4-fc12419447be)
+
 
 Developed by:DIVYASHREE B
 RegisterNumber:212224040081
@@ -43,13 +46,15 @@ RegisterNumber:212224040081
 **Output:**
 
 **RTL**
+
 ![Screenshot 2025-04-23 190723](https://github.com/user-attachments/assets/ab0a855f-f6f2-44f9-82f8-6ce605dace71)
 
 **Timing Diagram**
+
+
 ![image](https://github.com/user-attachments/assets/eb11d821-c973-40e6-921f-e5661c40354e)
 
 
 **Result:**
-
 Thus the given logic functions are implemented using and their operations are verified using Verilog programming.
 
